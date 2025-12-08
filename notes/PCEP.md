@@ -37,3 +37,7 @@
  - When using the type casting functions int(), float(), str() - Python will only attempt to convert
  - If user inputs letters and you try to cast as float, the program will fail - this is where exception handling comes into play which we will cover later
  
+## Lists
+ - There's a distinction between basic data types (where a single value can be stored) vs complex data types (where multiple values can be stored)
+ - These are known as collection or container data types
+ - Lists, tuples, and dictionaries are examples of this
